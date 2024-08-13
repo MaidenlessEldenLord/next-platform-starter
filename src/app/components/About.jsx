@@ -10,3 +10,5 @@ const About = () => {
     </main>
   )
 }
+
+export default About;
