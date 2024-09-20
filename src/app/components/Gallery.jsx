@@ -23,6 +23,7 @@ const Gallery = () => {
                 <Image class="rounded-t-lg" src={blackjack} alt="Black Jack" />
                 <div class="p-5">
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Black Jack</h5>
+                    <p>A Python Blackjack project typically simulates the classic card game, allowing a user to play against a computer dealer. The game is built using object-oriented principles, with classes representing a deck of cards, the player, and the dealer. The program follows standard Blackjack rules, dealing cards, allowing the player to hit or stand, and determining the winner based on the hand values.</p>
                     <Link href="https://replit.com/@Im2Shirts/BlackJack" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                         Try Your Luck
                         <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
@@ -35,6 +36,7 @@ const Gallery = () => {
                 <Image class="rounded-t-lg" src={choroplethmap} alt="Black Jack" />
                 <div class="p-5">
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Choropleth Map</h5>
+                    <p>A choropleth map of the United States, based on adult education levels showing the percentage of people with a bachelor's degree or higher, visually represents educational attainment across different states and different counties. Each state is color-coded, with darker shades indicating higher percentages of degree holders and lighter shades representing lower levels.</p>
                     <Link href="https://codepen.io/MaidenlessEldenLord/pen/eYKYpME" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                         Check It Out
                         <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
